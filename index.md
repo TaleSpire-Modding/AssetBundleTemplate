@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Creating your own Asset Bundle
+This github repo has a template project with the necessary files to start creating your own assetbundles containg minis, tiles and props (currently only minis are supported). 
 
-You can use the [editor on GitHub](https://github.com/TaleSpire-Modding/AssetBundleTemplate/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### OBJ + MTL
+Easiest way to create a mini is by providing an .obj, .mtl and a texture file describing how to texture the asset. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### INFO
+Info.txt is a json file that determines how the assetbundle gets loaded into the talespire asset database. This is optional to be in the 
 
-### Markdown
+### Portrait.png
+The protrait png is an optional component to your asset bundle. It needs to be 128x128px in size as scaling is currently not supported. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TaleSpire-Modding/AssetBundleTemplate/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Compiling the AssetBundle and importing it.
+Here are the steps on to compiling the assetbundle:
+1. Sacrifice a goat to the talespire modding dieties. 
+2. Skip step 1 and proceed
