@@ -1,7 +1,7 @@
 {
   "kind": "Creature",
   "groupName": "Bot",
-  "description": "Y Bot",
-  "name": "Y Bot",
+  "description": "X Bot",
+  "name": "X Bot",
   "tags": "Humanoid, Construct"
 }

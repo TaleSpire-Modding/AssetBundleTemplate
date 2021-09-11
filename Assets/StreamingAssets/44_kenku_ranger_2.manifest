@@ -1,20 +1,35 @@
 ManifestFileVersion: 0
-CRC: 4126478560
+CRC: 793324609
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6be1ad9b4088ead31127e3ef1538a025
+    Hash: 2e636e503a32a765f5ebda36067211d2
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 8568e5201f97321957c300bce0003f95
+    Hash: e8da9544b6fd3d7f102ca43d599162f8
 HashAppended: 0
 ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
   Script: {instanceID: 0}
 - Class: 49
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Models/Example_Mini/info.txt
+- Assets/Models/Example_Mini/44_Kenku_Ranger_2.obj
 - Assets/Models/Example_Mini/Portrait.png
 Dependencies: []
