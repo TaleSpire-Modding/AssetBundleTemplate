@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4132743249
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdac8c48ff4a187857bb5ea6a8429b7d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d1a01cdda0da7f2a1cf4afe76f4bb3c1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/xbot/xbot@Idle.fbx
+- Assets/Models/xbot/info.txt
+Dependencies: []
